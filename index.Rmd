@@ -73,98 +73,18 @@ class: middle, center, inverse
 ## Mundo do trabalho
 ## 4a revolução industrial
 ## Pandemia Sars-CoV-2
-## Guerra 
+## Guerras
+## Tarifaços
 
 ---
 
-## Proposta pedagógica
+class: center
 
-A intenção aqui é fazer com que o aprendizado seja mais dinâmico e ocorra de forma simultânea, fazendo com que o aluno tenha as bases teóricas e teste-as ao mesmo tempo.
+# Sistemas de produção
 
-A proposta pedagógica para desenvolvimento deste curso fundamenta-se no conceito de `Aprendizagem Baseada em Projetos`. São propostas atividades para desenvolvimento de competências (`Atividades de Aprendizagem`) e um `Projeto Integrador`, para consolidação e perspectiva integrada da disciplina. 
+Pergunte a definição/conceito de **Logística** para uma AI como o ChatGPT ou Deepseek. Seja criativo e pergunte colocando algum contexto diferente daquele formal. Como exemplo: "Como o chefe do PCC definiria **Logística**?"
 
----
-
-## Ementa da disciplina
-
-- Visão Geral da Logística.   
-- A Cadeia de Suprimentos (Supply Chain) - conceitos principais.   
-- Organização de Suprimentos: funções e objetivos.   
-- Compras e fornecedores.   
-- Armazenagem.   
-- Gestão de Estoques.   
-- Just-in-Time.   
-- Avaliação do sistema suprimentos.  
-
----
-
-## Objetivos de aprendizagem
-
-Por meio desta disciplina, os estudantes desenvolverão competências para:
-
-1.  discutir, por meio de conhecimento teórico e prático, os elementos constitutivos das cadeias de suprimentos e suas interrelações.
-2.  Elaborar propostas estratégicas para gestão da cadeia de suprimentos.
-3.  Quantificar e comparar resultados esperados de determinadas soluções logísticas.
-4.  Integrar análise de dados à gestão da cadeia de suprimentos com foco no processo decisório.
-
-
----
-
-
-## Proposta de avaliação da aprendizagem
-
-Pontos|	Atividade
-------|----------
-10|  Atividade de aprendizagem 1 - Conceitualizar e contextualizar a Logística
-10|  Atividade de aprendizagem 2 - Nivel de serviço logístico
-10|  Atividade de aprendizagem 2 - TICs e KPIs
-10|  Atividade de aprendizagem 3 – Logística Urbana
-10|  Atividade de aprendizagem 4 - Gestão de Transportes
-10|  Atividade de aprendizagem 5 - Gestão de estoques e armazenagem
-10|  Atividade de aprendizagem 6 - Redes Logísticas
-30|  Projeto integrador - Podcast
-TOTAL:| 	100 pontos
-
-> As datas de entrega e o planejamento dos encontros está disponível no site da disciplina em http://places.education
-
-
----
-## Recursos necessários
-
-Será necessário o uso de planilha eletrônica (o aplicativo pode ser de escolha do aluno) e ao longo da disciplina serão indicados aplicativos FOSS para outras análises.
-
-Turma Virtual do SIGAA para postagens de conteúdos e outras comunicações.
-
-Site da disciplina: http://places.education
-
----
-
-## Comunicação
-
-Toda comunicação individual com a docente deverá acontecer por meio do email institucional do docente, deve conter no campo "assunto" o texto `<Log-ADM>`ou `<Log-EPC>` e deve ser assinada com seu nome completo. Por favor, utilize o email institucional para comunicação com o docente: renataoliveira@cefetmg.br
-
----
-
-## Políticas institucionais e da disciplina
-
-### Como agir
-
-Os estudantes e professores têm a responsabilidade de manter um ambiente de aprendizagem adequado e motivante. 
-
-A cortesia profissional e a sensibilidade são especialmente importantes no que diz respeito a indivíduos e discussões que lidam com diferenças de raça, cor, cultura, religião, credo, política, status de veterano, orientação sexual, gênero, identidade e expressão de gênero, idade, deficiência e nacionalidades. As listas de classes são fornecidas ao instrutor com o nome legal do aluno. Terei prazer em honrar seu pedido de dirigir-se a você por um nome alternativo ou pronome de gênero. Não serão tolerados atos de discriminação ou assédio contra ou por qualquer funcionário ou estudante.
-
-
-### Como trabalhar
-
-Honestidade acadêmica é um princípio fundamental desta disciplina. Desonestidade acadêmica configura-se por: cópias literais de textos ou ideias sem citação de fonte, fabricações e falsificações de qualquer natureza, plágio, mentira, suborno, comportamento ameaçador ou cumplicidade com desonestidade acadêmica em qualquer nível. 
-
-Os estudantes que forem considerados em violação da política de integridade acadêmica estarão sujeitos tanto a sanções acadêmicas do membro docente quanto a sanções não acadêmicas. Se você tiver alguma dúvida sobre citações adequadas, configuração de plágio, etc., por favor, não hesite em perguntar!
-
----
-
-## Organização das atividades:
-
-**Composição dos grupos de trabalho:** A turma deverá ser dividida em **grupos**. Esses grupos devem se manter para realização de todos os projetos e atividades da disciplina. A professora indicara a plataforma que permitirá o desenvolvimento das atividades/projeto de maneira colaborativa, com registro das discussões.  
+`r countdown(minutes = 5, seconds = 00, left = 0, right = 0, padding = "50px", margin = "5%", font_size = "6em", play_sound = TRUE)`
 
 ---
 
