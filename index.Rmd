@@ -80,7 +80,7 @@ class: middle, center, inverse
 
 class: center
 
-# Sistemas de produção
+# Logística
 
 Pergunte a definição/conceito de **Logística** para uma AI como o ChatGPT ou Deepseek. Seja criativo e pergunte colocando algum contexto diferente daquele formal. Como exemplo: "Como o chefe do PCC definiria **Logística**?"
 
